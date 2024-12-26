@@ -1,0 +1,7 @@
+.sec{
+   margin-bottom:100px;
+    position: sticky;
+    background-color:black;
+    position: -webkit-sticky;
+    top: 0;
+}
