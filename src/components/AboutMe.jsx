@@ -1,10 +1,10 @@
 import React,{useState} from 'react'
-import me from "../assets/images/Me.png"
-import tools from "../assets/images/grid2.png"
+import me from "/images/Me.png"
+import tools from "/images/grid2.png"
 import Globe from "react-globe.gl"
 import Button from './Button'
-import g3 from "../assets/images/grid3.png"
-import g4 from "../assets/images/grid4.png"
+import g3 from "/images/grid3.png"
+import g4 from "/images/grid4.png"
 import { MdContentCopy } from "react-icons/md";
 import { IoMdCheckmark } from "react-icons/io";
 import Spline from '@splinetool/react-spline';

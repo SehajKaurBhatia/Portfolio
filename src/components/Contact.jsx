@@ -75,7 +75,7 @@ const Contact = () => {
       
    <div className="relative min-h-screen flex items-center justify-center flex-col">
         
-   <img src="/src/assets/images/email2.png" alt="terminal-bg" className=" absolute  inset-0  min-h-screen"
+   <img src="/images/email2.png" alt="terminal-bg" className=" absolute  inset-0  min-h-screen"
      />
         <div className="contact-container bg-black">
           
@@ -133,7 +133,7 @@ const Contact = () => {
           </form>
           
         </div>
-        <img src="/src/assets/images/email2.png" alt="terminal-bg" className="absolute  min-h-screen" style={{
+        <img src="/images/email2.png" alt="terminal-bg" className="absolute  min-h-screen" style={{
       right: 0,
       top:0,
       transform: "scaleX(-1)",
