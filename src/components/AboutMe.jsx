@@ -1,6 +1,6 @@
 import React,{useState} from 'react'
 import me from "/images/Me.png"
-import tools from "/images/grid2.png"
+import tools from "/images/techstack.jpg"
 import Globe from "react-globe.gl"
 import Button from './Button'
 import g3 from "/images/grid3.png"

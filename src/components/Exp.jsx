@@ -18,7 +18,7 @@ const Exp = () => {
           <div className="work-container ">
           
             {/* <div className="work-canvas bg-white z-50 "> */}
-            <AuroraBackground className="work-canvas z-0 bg-white" >
+            <AuroraBackground className="work-canvas md:h-[560px] z-0 bg-white" >
       <motion.div className="z-0"
         initial={{ opacity: 0.0, y: 40 }}
         whileInView={{ opacity: 1, y: 0 }}
